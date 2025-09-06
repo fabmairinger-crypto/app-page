@@ -1,7 +1,7 @@
 {
   "name": "EasyGene Online Analysis",
   "short_name": "EasyGene",
-  "start_url": "https://easygene-online-analysis.shinyapps.io/fuer_shinyapps/",
+  "start_url": "https://fabmairinger-crypto.github.io/app-page/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#0f172a",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
