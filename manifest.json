@@ -1,22 +1,13 @@
 {
   "name": "EasyGene Online Analysis",
   "short_name": "EasyGene",
-  "start_url": "https://fabmairinger-crypto.github.io/app-page/",
-  "display": "standalone",
+  "start_url": "https://app.easygene.biz/",
+  "display": "standalone",        // oder "fullscreen", wenn du auch die Android-Statusleiste ausblenden willst
   "background_color": "#ffffff",
   "theme_color": "#0f172a",
-  "description": "Shiny-basierte Analyse-App von EasyGene.",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
 
